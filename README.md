@@ -20,7 +20,7 @@ This project consists of models of our newly-proposed MVI-DSNet, which is a mult
 
 - To use the detection platform and get statistic results on WSI level, run `MVI_detect/main.py` and select the WSI and pretrained models for detections, like:
 
-  ![platform](./fig/platform.png)
+  ![platform](./fig/platform.PNG)
 
 ## Experiment
 
