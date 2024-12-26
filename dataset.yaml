@@ -1,0 +1,5 @@
+train: ./yolo_annotation/images/train
+val: ./yolo_annotation/images/test
+
+nc: 1
+names: ['MVI']
